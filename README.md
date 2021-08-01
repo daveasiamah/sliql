@@ -1,4 +1,4 @@
-# Tab navigation example
+# WordPress, React Native and GraphQl App
 
 <p>
   <!-- iOS -->
@@ -16,5 +16,13 @@
 
 ## 📝 Notes
 
-- This is a very basic example from the [react navigation](https://reactnavigation.org/) docs.
-- [Tab navigation documentation](https://reactnavigation.org/docs/tab-based-navigation).
+- Create a wordpress blog post with the following:
+-- title
+-- date
+-- slug
+-- featuredImage
+-- content
+
+- Install Graphql plugin for WordPress
+- Follow this youtube video: https://www.youtube.com/watch?v=66Lf60PjnBE
+- Explore
